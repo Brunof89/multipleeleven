@@ -1,0 +1,17 @@
+C:\Users\bfernandes\Desktop\NPF.MultipleEleven\NPF.MultipleEleven\bin\Debug\netcoreapp2.2\NPF.MultipleEleven.Api.deps.json
+C:\Users\bfernandes\Desktop\NPF.MultipleEleven\NPF.MultipleEleven\bin\Debug\netcoreapp2.2\NPF.MultipleEleven.Api.runtimeconfig.json
+C:\Users\bfernandes\Desktop\NPF.MultipleEleven\NPF.MultipleEleven\bin\Debug\netcoreapp2.2\NPF.MultipleEleven.Api.runtimeconfig.dev.json
+C:\Users\bfernandes\Desktop\NPF.MultipleEleven\NPF.MultipleEleven\bin\Debug\netcoreapp2.2\NPF.MultipleEleven.Api.dll
+C:\Users\bfernandes\Desktop\NPF.MultipleEleven\NPF.MultipleEleven\bin\Debug\netcoreapp2.2\NPF.MultipleEleven.Api.pdb
+C:\Users\bfernandes\Desktop\NPF.MultipleEleven\NPF.MultipleEleven\obj\Debug\netcoreapp2.2\NPF.MultipleEleven.Api.csproj.CoreCompileInputs.cache
+C:\Users\bfernandes\Desktop\NPF.MultipleEleven\NPF.MultipleEleven\obj\Debug\netcoreapp2.2\NPF.MultipleEleven.Api.RazorAssemblyInfo.cache
+C:\Users\bfernandes\Desktop\NPF.MultipleEleven\NPF.MultipleEleven\obj\Debug\netcoreapp2.2\NPF.MultipleEleven.Api.RazorAssemblyInfo.cs
+C:\Users\bfernandes\Desktop\NPF.MultipleEleven\NPF.MultipleEleven\obj\Debug\netcoreapp2.2\NPF.MultipleEleven.Api.AssemblyInfoInputs.cache
+C:\Users\bfernandes\Desktop\NPF.MultipleEleven\NPF.MultipleEleven\obj\Debug\netcoreapp2.2\NPF.MultipleEleven.Api.AssemblyInfo.cs
+C:\Users\bfernandes\Desktop\NPF.MultipleEleven\NPF.MultipleEleven\obj\Debug\netcoreapp2.2\NPF.MultipleEleven.Api.RazorTargetAssemblyInfo.cache
+C:\Users\bfernandes\Desktop\NPF.MultipleEleven\NPF.MultipleEleven\obj\Debug\netcoreapp2.2\NPF.MultipleEleven.Api.dll
+C:\Users\bfernandes\Desktop\NPF.MultipleEleven\NPF.MultipleEleven\obj\Debug\netcoreapp2.2\NPF.MultipleEleven.Api.pdb
+C:\Users\bfernandes\Desktop\NPF.MultipleEleven\NPF.MultipleEleven\obj\Debug\netcoreapp2.2\NPF.MultipleEleven.Api.csprojAssemblyReference.cache
+C:\Users\bfernandes\Desktop\NPF.MultipleEleven\NPF.MultipleEleven\bin\Debug\netcoreapp2.2\NPF.MultipleEleven.Domain.dll
+C:\Users\bfernandes\Desktop\NPF.MultipleEleven\NPF.MultipleEleven\bin\Debug\netcoreapp2.2\NPF.MultipleEleven.Domain.pdb
+C:\Users\bfernandes\Desktop\NPF.MultipleEleven\NPF.MultipleEleven\obj\Debug\netcoreapp2.2\NPF.MultipleEleven.Api.csproj.CopyComplete

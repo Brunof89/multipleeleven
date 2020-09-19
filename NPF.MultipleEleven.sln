@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NPF.MultipleEleven.Api", "NPF.MultipleEleven\NPF.MultipleEleven.Api.csproj", "{0A8012A2-D52A-46E5-9831-8492AA61E9B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NPF.MultipleEleven.Domain", "NPF.MultipleEleven.Domain\NPF.MultipleEleven.Domain.csproj", "{385D33AF-E6AE-4657-896C-C7421AD9CECB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A8012A2-D52A-46E5-9831-8492AA61E9B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A8012A2-D52A-46E5-9831-8492AA61E9B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A8012A2-D52A-46E5-9831-8492AA61E9B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A8012A2-D52A-46E5-9831-8492AA61E9B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{385D33AF-E6AE-4657-896C-C7421AD9CECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{385D33AF-E6AE-4657-896C-C7421AD9CECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{385D33AF-E6AE-4657-896C-C7421AD9CECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{385D33AF-E6AE-4657-896C-C7421AD9CECB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AC9FF50-D1CA-46DF-B702-C335179A9B56}
+	EndGlobalSection
+EndGlobal

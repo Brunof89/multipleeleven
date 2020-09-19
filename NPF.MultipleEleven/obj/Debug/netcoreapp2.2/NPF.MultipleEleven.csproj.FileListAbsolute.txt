@@ -1,0 +1,14 @@
+C:\Users\bfernandes\Desktop\NPF.MultipleEleven\NPF.MultipleEleven\bin\Debug\netcoreapp2.2\NPF.MultipleEleven.deps.json
+C:\Users\bfernandes\Desktop\NPF.MultipleEleven\NPF.MultipleEleven\bin\Debug\netcoreapp2.2\NPF.MultipleEleven.runtimeconfig.json
+C:\Users\bfernandes\Desktop\NPF.MultipleEleven\NPF.MultipleEleven\bin\Debug\netcoreapp2.2\NPF.MultipleEleven.runtimeconfig.dev.json
+C:\Users\bfernandes\Desktop\NPF.MultipleEleven\NPF.MultipleEleven\bin\Debug\netcoreapp2.2\NPF.MultipleEleven.dll
+C:\Users\bfernandes\Desktop\NPF.MultipleEleven\NPF.MultipleEleven\bin\Debug\netcoreapp2.2\NPF.MultipleEleven.pdb
+C:\Users\bfernandes\Desktop\NPF.MultipleEleven\NPF.MultipleEleven\obj\Debug\netcoreapp2.2\NPF.MultipleEleven.csprojAssemblyReference.cache
+C:\Users\bfernandes\Desktop\NPF.MultipleEleven\NPF.MultipleEleven\obj\Debug\netcoreapp2.2\NPF.MultipleEleven.csproj.CoreCompileInputs.cache
+C:\Users\bfernandes\Desktop\NPF.MultipleEleven\NPF.MultipleEleven\obj\Debug\netcoreapp2.2\NPF.MultipleEleven.RazorAssemblyInfo.cache
+C:\Users\bfernandes\Desktop\NPF.MultipleEleven\NPF.MultipleEleven\obj\Debug\netcoreapp2.2\NPF.MultipleEleven.RazorAssemblyInfo.cs
+C:\Users\bfernandes\Desktop\NPF.MultipleEleven\NPF.MultipleEleven\obj\Debug\netcoreapp2.2\NPF.MultipleEleven.AssemblyInfoInputs.cache
+C:\Users\bfernandes\Desktop\NPF.MultipleEleven\NPF.MultipleEleven\obj\Debug\netcoreapp2.2\NPF.MultipleEleven.AssemblyInfo.cs
+C:\Users\bfernandes\Desktop\NPF.MultipleEleven\NPF.MultipleEleven\obj\Debug\netcoreapp2.2\NPF.MultipleEleven.RazorTargetAssemblyInfo.cache
+C:\Users\bfernandes\Desktop\NPF.MultipleEleven\NPF.MultipleEleven\obj\Debug\netcoreapp2.2\NPF.MultipleEleven.dll
+C:\Users\bfernandes\Desktop\NPF.MultipleEleven\NPF.MultipleEleven\obj\Debug\netcoreapp2.2\NPF.MultipleEleven.pdb
