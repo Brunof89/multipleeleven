@@ -13209,11 +13209,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bfernandes\\Desktop\\NPF.MultipleEleven\\NPF.MultipleEleven\\NPF.MultipleEleven.Api.csproj",
+      "projectUniqueName": "C:\\Users\\bfernandes\\Source\\Repos\\multipleeleven\\NPF.MultipleEleven\\NPF.MultipleEleven.Api.csproj",
       "projectName": "NPF.MultipleEleven.Api",
-      "projectPath": "C:\\Users\\bfernandes\\Desktop\\NPF.MultipleEleven\\NPF.MultipleEleven\\NPF.MultipleEleven.Api.csproj",
+      "projectPath": "C:\\Users\\bfernandes\\Source\\Repos\\multipleeleven\\NPF.MultipleEleven\\NPF.MultipleEleven.Api.csproj",
       "packagesPath": "C:\\Users\\bfernandes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bfernandes\\Desktop\\NPF.MultipleEleven\\NPF.MultipleEleven\\obj\\",
+      "outputPath": "C:\\Users\\bfernandes\\Source\\Repos\\multipleeleven\\NPF.MultipleEleven\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -13234,8 +13234,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\bfernandes\\Desktop\\NPF.MultipleEleven\\NPF.MultipleEleven.Domain\\NPF.MultipleEleven.Domain.csproj": {
-              "projectPath": "C:\\Users\\bfernandes\\Desktop\\NPF.MultipleEleven\\NPF.MultipleEleven.Domain\\NPF.MultipleEleven.Domain.csproj"
+            "C:\\Users\\bfernandes\\Source\\Repos\\multipleeleven\\NPF.MultipleEleven.Domain\\NPF.MultipleEleven.Domain.csproj": {
+              "projectPath": "C:\\Users\\bfernandes\\Source\\Repos\\multipleeleven\\NPF.MultipleEleven.Domain\\NPF.MultipleEleven.Domain.csproj"
             }
           }
         }

@@ -7,3 +7,12 @@ C:\Users\bfernandes\Desktop\NPF.MultipleEleven\NPF.MultipleEleven.Domain\obj\Deb
 C:\Users\bfernandes\Desktop\NPF.MultipleEleven\NPF.MultipleEleven.Domain\obj\Debug\netcoreapp2.2\NPF.MultipleEleven.Domain.dll
 C:\Users\bfernandes\Desktop\NPF.MultipleEleven\NPF.MultipleEleven.Domain\obj\Debug\netcoreapp2.2\NPF.MultipleEleven.Domain.pdb
 C:\Users\bfernandes\Desktop\NPF.MultipleEleven\NPF.MultipleEleven.Domain\obj\Debug\netcoreapp2.2\NPF.MultipleEleven.Domain.csprojAssemblyReference.cache
+C:\Users\bfernandes\Source\Repos\multipleeleven\NPF.MultipleEleven.Domain\bin\Debug\netcoreapp2.2\NPF.MultipleEleven.Domain.deps.json
+C:\Users\bfernandes\Source\Repos\multipleeleven\NPF.MultipleEleven.Domain\bin\Debug\netcoreapp2.2\NPF.MultipleEleven.Domain.dll
+C:\Users\bfernandes\Source\Repos\multipleeleven\NPF.MultipleEleven.Domain\bin\Debug\netcoreapp2.2\NPF.MultipleEleven.Domain.pdb
+C:\Users\bfernandes\Source\Repos\multipleeleven\NPF.MultipleEleven.Domain\obj\Debug\netcoreapp2.2\NPF.MultipleEleven.Domain.csprojAssemblyReference.cache
+C:\Users\bfernandes\Source\Repos\multipleeleven\NPF.MultipleEleven.Domain\obj\Debug\netcoreapp2.2\NPF.MultipleEleven.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bfernandes\Source\Repos\multipleeleven\NPF.MultipleEleven.Domain\obj\Debug\netcoreapp2.2\NPF.MultipleEleven.Domain.AssemblyInfoInputs.cache
+C:\Users\bfernandes\Source\Repos\multipleeleven\NPF.MultipleEleven.Domain\obj\Debug\netcoreapp2.2\NPF.MultipleEleven.Domain.AssemblyInfo.cs
+C:\Users\bfernandes\Source\Repos\multipleeleven\NPF.MultipleEleven.Domain\obj\Debug\netcoreapp2.2\NPF.MultipleEleven.Domain.dll
+C:\Users\bfernandes\Source\Repos\multipleeleven\NPF.MultipleEleven.Domain\obj\Debug\netcoreapp2.2\NPF.MultipleEleven.Domain.pdb

@@ -32,7 +32,6 @@ namespace NPF.MultipleEleven.Domain
 
             return new MultipleElevenResponseDto { result = result };
         }
-
         /// <summary>
         /// checks if input is number and if it is multiple of eleven
         /// </summary>
@@ -40,17 +39,17 @@ namespace NPF.MultipleEleven.Domain
         /// <returns></returns>
         public bool IsMultipleEleven(string n)
         {
-            int aux = 0;
-
-            if (Int32.TryParse(n, out aux))
-            {
-                return aux % 11 == 0;
-            }
-            else
-            {
+            if (!isNumber(n))
                 return false;
-            }
 
+            return Convert.ToInt32(n) % 11 == 0;
+
+        }
+
+        public bool isNumber(string s)
+        {
+            int aux = 0;
+            return Int32.TryParse(s, out aux);
         }
     }
 }

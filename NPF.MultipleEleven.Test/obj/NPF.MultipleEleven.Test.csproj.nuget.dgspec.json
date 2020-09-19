@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bfernandes\\Source\\Repos\\multipleeleven\\NPF.MultipleEleven\\NPF.MultipleEleven.Api.csproj": {}
+    "C:\\Users\\bfernandes\\Source\\Repos\\multipleeleven\\NPF.MultipleEleven.Test\\NPF.MultipleEleven.Test.csproj": {}
   },
   "projects": {
     "C:\\Users\\bfernandes\\Source\\Repos\\multipleeleven\\NPF.MultipleEleven.Domain\\NPF.MultipleEleven.Domain.csproj": {
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\bfernandes\\Source\\Repos\\multipleeleven\\NPF.MultipleEleven\\NPF.MultipleEleven.Api.csproj": {
+    "C:\\Users\\bfernandes\\Source\\Repos\\multipleeleven\\NPF.MultipleEleven.Test\\NPF.MultipleEleven.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bfernandes\\Source\\Repos\\multipleeleven\\NPF.MultipleEleven\\NPF.MultipleEleven.Api.csproj",
-        "projectName": "NPF.MultipleEleven.Api",
-        "projectPath": "C:\\Users\\bfernandes\\Source\\Repos\\multipleeleven\\NPF.MultipleEleven\\NPF.MultipleEleven.Api.csproj",
+        "projectUniqueName": "C:\\Users\\bfernandes\\Source\\Repos\\multipleeleven\\NPF.MultipleEleven.Test\\NPF.MultipleEleven.Test.csproj",
+        "projectName": "NPF.MultipleEleven.Test",
+        "projectPath": "C:\\Users\\bfernandes\\Source\\Repos\\multipleeleven\\NPF.MultipleEleven.Test\\NPF.MultipleEleven.Test.csproj",
         "packagesPath": "C:\\Users\\bfernandes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bfernandes\\Source\\Repos\\multipleeleven\\NPF.MultipleEleven\\obj\\",
+        "outputPath": "C:\\Users\\bfernandes\\Source\\Repos\\multipleeleven\\NPF.MultipleEleven.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -101,30 +101,23 @@
       "frameworks": {
         "netcoreapp2.2": {
           "dependencies": {
-            "Microsoft.AspNetCore.App": {
-              "suppressParent": "All",
+            "MSTest.TestAdapter": {
               "target": "Package",
-              "version": "[2.2.0, )",
-              "autoReferenced": true
+              "version": "[1.4.0, )"
             },
-            "Microsoft.AspNetCore.Razor.Design": {
-              "suppressParent": "All",
+            "MSTest.TestFramework": {
               "target": "Package",
-              "version": "[2.2.0, )"
+              "version": "[1.4.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[2.2.4, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[5.5.0, )"
             }
           },
           "imports": [

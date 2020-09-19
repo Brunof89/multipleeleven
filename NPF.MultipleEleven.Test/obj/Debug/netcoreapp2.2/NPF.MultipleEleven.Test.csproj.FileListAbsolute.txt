@@ -1,0 +1,17 @@
+C:\Users\bfernandes\Source\Repos\multipleeleven\NPF.MultipleEleven.Test\obj\Debug\netcoreapp2.2\NPF.MultipleEleven.Test.csprojAssemblyReference.cache
+C:\Users\bfernandes\Source\Repos\multipleeleven\NPF.MultipleEleven.Test\obj\Debug\netcoreapp2.2\NPF.MultipleEleven.Test.csproj.CoreCompileInputs.cache
+C:\Users\bfernandes\Source\Repos\multipleeleven\NPF.MultipleEleven.Test\obj\Debug\netcoreapp2.2\NPF.MultipleEleven.Test.AssemblyInfoInputs.cache
+C:\Users\bfernandes\Source\Repos\multipleeleven\NPF.MultipleEleven.Test\obj\Debug\netcoreapp2.2\NPF.MultipleEleven.Test.AssemblyInfo.cs
+C:\Users\bfernandes\Source\Repos\multipleeleven\NPF.MultipleEleven.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\bfernandes\Source\Repos\multipleeleven\NPF.MultipleEleven.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\bfernandes\Source\Repos\multipleeleven\NPF.MultipleEleven.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\bfernandes\Source\Repos\multipleeleven\NPF.MultipleEleven.Test\bin\Debug\netcoreapp2.2\NPF.MultipleEleven.Test.deps.json
+C:\Users\bfernandes\Source\Repos\multipleeleven\NPF.MultipleEleven.Test\bin\Debug\netcoreapp2.2\NPF.MultipleEleven.Test.runtimeconfig.json
+C:\Users\bfernandes\Source\Repos\multipleeleven\NPF.MultipleEleven.Test\bin\Debug\netcoreapp2.2\NPF.MultipleEleven.Test.runtimeconfig.dev.json
+C:\Users\bfernandes\Source\Repos\multipleeleven\NPF.MultipleEleven.Test\bin\Debug\netcoreapp2.2\NPF.MultipleEleven.Test.dll
+C:\Users\bfernandes\Source\Repos\multipleeleven\NPF.MultipleEleven.Test\bin\Debug\netcoreapp2.2\NPF.MultipleEleven.Test.pdb
+C:\Users\bfernandes\Source\Repos\multipleeleven\NPF.MultipleEleven.Test\bin\Debug\netcoreapp2.2\NPF.MultipleEleven.Domain.dll
+C:\Users\bfernandes\Source\Repos\multipleeleven\NPF.MultipleEleven.Test\bin\Debug\netcoreapp2.2\NPF.MultipleEleven.Domain.pdb
+C:\Users\bfernandes\Source\Repos\multipleeleven\NPF.MultipleEleven.Test\obj\Debug\netcoreapp2.2\NPF.MultipleEleven.Test.csproj.CopyComplete
+C:\Users\bfernandes\Source\Repos\multipleeleven\NPF.MultipleEleven.Test\obj\Debug\netcoreapp2.2\NPF.MultipleEleven.Test.dll
+C:\Users\bfernandes\Source\Repos\multipleeleven\NPF.MultipleEleven.Test\obj\Debug\netcoreapp2.2\NPF.MultipleEleven.Test.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bfernandes\\Desktop\\NPF.MultipleEleven\\NPF.MultipleEleven.Domain\\NPF.MultipleEleven.Domain.csproj": {}
+    "C:\\Users\\bfernandes\\Source\\Repos\\multipleeleven\\NPF.MultipleEleven.Domain\\NPF.MultipleEleven.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bfernandes\\Desktop\\NPF.MultipleEleven\\NPF.MultipleEleven.Domain\\NPF.MultipleEleven.Domain.csproj": {
+    "C:\\Users\\bfernandes\\Source\\Repos\\multipleeleven\\NPF.MultipleEleven.Domain\\NPF.MultipleEleven.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bfernandes\\Desktop\\NPF.MultipleEleven\\NPF.MultipleEleven.Domain\\NPF.MultipleEleven.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\bfernandes\\Source\\Repos\\multipleeleven\\NPF.MultipleEleven.Domain\\NPF.MultipleEleven.Domain.csproj",
         "projectName": "NPF.MultipleEleven.Domain",
-        "projectPath": "C:\\Users\\bfernandes\\Desktop\\NPF.MultipleEleven\\NPF.MultipleEleven.Domain\\NPF.MultipleEleven.Domain.csproj",
+        "projectPath": "C:\\Users\\bfernandes\\Source\\Repos\\multipleeleven\\NPF.MultipleEleven.Domain\\NPF.MultipleEleven.Domain.csproj",
         "packagesPath": "C:\\Users\\bfernandes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bfernandes\\Desktop\\NPF.MultipleEleven\\NPF.MultipleEleven.Domain\\obj\\",
+        "outputPath": "C:\\Users\\bfernandes\\Source\\Repos\\multipleeleven\\NPF.MultipleEleven.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
